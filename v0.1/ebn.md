@@ -1,7 +1,6 @@
 # EBN — Electronic Beat Notation
 ## Specification v0.1
 
----
 © Lars Larsson, 2026  
 Licensed under CC BY 4.0
 ---
